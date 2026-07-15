@@ -1,0 +1,5 @@
+Coloque aqui os dois arquivos baixados do Sankhya:
+- Cota_de_Compra_Por_Cliente.xlsx
+- Relacao_Produto_Parceiro.xlsx
+
+Depois rode: python3 scripts/build_data.py --cota data/raw/Cota_de_Compra_Por_Cliente.xlsx --vendas data/raw/Relacao_Produto_Parceiro.xlsx

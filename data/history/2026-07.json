@@ -1,0 +1,6988 @@
+{
+  "mes": "2026-07",
+  "gerado_em": "2026-07-15T15:41:58.246008+00:00",
+  "representantes": [
+    "BRUNA",
+    "HEDEILSON",
+    "MSR VET",
+    "NAYARA",
+    "PATROAGRO",
+    "RICARDO PIMENTA",
+    "SAGRADA FAMILIA",
+    "SIMONE",
+    "Sem vendas no mês"
+  ],
+  "categorias": [
+    "FENO",
+    "PRÉ-SECADO"
+  ],
+  "clientes": [
+    {
+      "codigo": 1194,
+      "nome": "COOPERATIVA AGRO PECUARIA VALE DO RIO DOCE LTDA",
+      "representante": "BRUNA",
+      "feno": {
+        "cota_kg": 13086.67,
+        "consumido_kg": 39580.0,
+        "saldo_kg": -26493.33,
+        "percentual": 302.4,
+        "cota_padrao": false,
+        "transacoes": [
+          {
+            "data": "01/07/2026",
+            "quantidade_kg": 7350.0,
+            "dentro_cota_kg": 7350.0,
+            "fora_cota_kg": 0.0,
+            "saldo_apos_kg": 5736.67
+          },
+          {
+            "data": "02/07/2026",
+            "quantidade_kg": 5930.0,
+            "dentro_cota_kg": 5736.67,
+            "fora_cota_kg": 193.33,
+            "saldo_apos_kg": -193.33
+          },
+          {
+            "data": "06/07/2026",
+            "quantidade_kg": 13960.0,
+            "dentro_cota_kg": 0,
+            "fora_cota_kg": 13960.0,
+            "saldo_apos_kg": -14153.33
+          },
+          {
+            "data": "10/07/2026",
+            "quantidade_kg": 12340.0,
+            "dentro_cota_kg": 0,
+            "fora_cota_kg": 12340.0,
+            "saldo_apos_kg": -26493.33
+          }
+        ]
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 5203,
+      "nome": "ROBSON GONCALVES FERREIRA JUNIOR",
+      "representante": "SAGRADA FAMILIA",
+      "feno": {
+        "cota_kg": 4475.0,
+        "consumido_kg": 8290.0,
+        "saldo_kg": -3815.0,
+        "percentual": 185.3,
+        "cota_padrao": false,
+        "transacoes": [
+          {
+            "data": "07/07/2026",
+            "quantidade_kg": 8290.0,
+            "dentro_cota_kg": 4475.0,
+            "fora_cota_kg": 3815.0,
+            "saldo_apos_kg": -3815.0
+          }
+        ]
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 1485,
+      "nome": "ALICE CRISTINA CARVALHO FONSECA",
+      "representante": "NAYARA",
+      "feno": {
+        "cota_kg": 233.33,
+        "consumido_kg": 420.0,
+        "saldo_kg": -186.67,
+        "percentual": 180.0,
+        "cota_padrao": false,
+        "transacoes": [
+          {
+            "data": "11/07/2026",
+            "quantidade_kg": 420.0,
+            "dentro_cota_kg": 233.33,
+            "fora_cota_kg": 186.67,
+            "saldo_apos_kg": -186.67
+          }
+        ]
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 2126,
+      "nome": "RANCHO YCAMBI LTDA ME",
+      "representante": "BRUNA",
+      "feno": {
+        "cota_kg": 8786.0,
+        "consumido_kg": 13470.0,
+        "saldo_kg": -4684.0,
+        "percentual": 153.3,
+        "cota_padrao": false,
+        "transacoes": [
+          {
+            "data": "04/07/2026",
+            "quantidade_kg": 1590.0,
+            "dentro_cota_kg": 1590.0,
+            "fora_cota_kg": 0.0,
+            "saldo_apos_kg": 7196.0
+          },
+          {
+            "data": "04/07/2026",
+            "quantidade_kg": 11880.0,
+            "dentro_cota_kg": 7196.0,
+            "fora_cota_kg": 4684.0,
+            "saldo_apos_kg": -4684.0
+          }
+        ]
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 3040,
+      "nome": "DAOUDY RODRIGUES SALES",
+      "representante": "BRUNA",
+      "feno": {
+        "cota_kg": 12010.0,
+        "consumido_kg": 16540.0,
+        "saldo_kg": -4530.0,
+        "percentual": 137.7,
+        "cota_padrao": false,
+        "transacoes": [
+          {
+            "data": "01/07/2026",
+            "quantidade_kg": 8300.0,
+            "dentro_cota_kg": 8300.0,
+            "fora_cota_kg": 0.0,
+            "saldo_apos_kg": 3710.0
+          },
+          {
+            "data": "03/07/2026",
+            "quantidade_kg": 8240.0,
+            "dentro_cota_kg": 3710.0,
+            "fora_cota_kg": 4530.0,
+            "saldo_apos_kg": -4530.0
+          }
+        ]
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 4737,
+      "nome": "LURDES APARECIDA LORIA E OUTROS",
+      "representante": "SIMONE",
+      "feno": {
+        "cota_kg": 735.0,
+        "consumido_kg": 960.0,
+        "saldo_kg": -225.0,
+        "percentual": 130.6,
+        "cota_padrao": false,
+        "transacoes": [
+          {
+            "data": "07/07/2026",
+            "quantidade_kg": 960.0,
+            "dentro_cota_kg": 735.0,
+            "fora_cota_kg": 225.0,
+            "saldo_apos_kg": -225.0
+          }
+        ]
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 111,
+      "nome": "PEDRO JUSCELINO DO AMARAL PINTO",
+      "representante": "BRUNA",
+      "feno": {
+        "cota_kg": 7050.83,
+        "consumido_kg": 8630.0,
+        "saldo_kg": -1579.17,
+        "percentual": 122.4,
+        "cota_padrao": false,
+        "transacoes": [
+          {
+            "data": "08/07/2026",
+            "quantidade_kg": 8630.0,
+            "dentro_cota_kg": 7050.83,
+            "fora_cota_kg": 1579.17,
+            "saldo_apos_kg": -1579.17
+          }
+        ]
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 6741,
+      "nome": "JOSE RICARDO MACEDO 87998998687",
+      "representante": "SIMONE",
+      "feno": {
+        "cota_kg": 460.0,
+        "consumido_kg": 490.0,
+        "saldo_kg": -30.0,
+        "percentual": 106.5,
+        "cota_padrao": false,
+        "transacoes": [
+          {
+            "data": "03/07/2026",
+            "quantidade_kg": 490.0,
+            "dentro_cota_kg": 460.0,
+            "fora_cota_kg": 30.0,
+            "saldo_apos_kg": -30.0
+          }
+        ]
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 1327,
+      "nome": "COOPERATIVA AGRO PECUARIA DE BOA ESPERANCA LTDA",
+      "representante": "SAGRADA FAMILIA",
+      "feno": {
+        "cota_kg": 7917.5,
+        "consumido_kg": 8420.0,
+        "saldo_kg": -502.5,
+        "percentual": 106.3,
+        "cota_padrao": false,
+        "transacoes": [
+          {
+            "data": "08/07/2026",
+            "quantidade_kg": 8420.0,
+            "dentro_cota_kg": 7917.5,
+            "fora_cota_kg": 502.5,
+            "saldo_apos_kg": -502.5
+          }
+        ]
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 6809,
+      "nome": "VICTOR ALMEIDA VALENTIM",
+      "representante": "BRUNA",
+      "feno": {
+        "cota_kg": 8080.0,
+        "consumido_kg": 8520.0,
+        "saldo_kg": -440.0,
+        "percentual": 105.4,
+        "cota_padrao": false,
+        "transacoes": [
+          {
+            "data": "10/07/2026",
+            "quantidade_kg": 8520.0,
+            "dentro_cota_kg": 8080.0,
+            "fora_cota_kg": 440.0,
+            "saldo_apos_kg": -440.0
+          }
+        ]
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 2479,
+      "nome": "AGROPECUARIA FAZENDA NOSSA EIRELI",
+      "representante": "BRUNA",
+      "feno": {
+        "cota_kg": 3955.0,
+        "consumido_kg": 4150.0,
+        "saldo_kg": -195.0,
+        "percentual": 104.9,
+        "cota_padrao": false,
+        "transacoes": [
+          {
+            "data": "09/07/2026",
+            "quantidade_kg": 4150.0,
+            "dentro_cota_kg": 3955.0,
+            "fora_cota_kg": 195.0,
+            "saldo_apos_kg": -195.0
+          }
+        ]
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 5475,
+      "nome": "THAUANY ALBERNAZ CLEMENTE - REPRESENTACAO",
+      "representante": "NAYARA",
+      "feno": {
+        "cota_kg": 8488.33,
+        "consumido_kg": 8830.0,
+        "saldo_kg": -341.67,
+        "percentual": 104.0,
+        "cota_padrao": false,
+        "transacoes": [
+          {
+            "data": "08/07/2026",
+            "quantidade_kg": 8830.0,
+            "dentro_cota_kg": 8488.33,
+            "fora_cota_kg": 341.67,
+            "saldo_apos_kg": -341.67
+          }
+        ]
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 118,
+      "nome": "COOPERATIVA AGRO PECUARIA VALE DO SANTO ANTONIO LTDA",
+      "representante": "BRUNA",
+      "feno": {
+        "cota_kg": 8398.0,
+        "consumido_kg": 8720.0,
+        "saldo_kg": -322.0,
+        "percentual": 103.8,
+        "cota_padrao": false,
+        "transacoes": [
+          {
+            "data": "06/07/2026",
+            "quantidade_kg": 8720.0,
+            "dentro_cota_kg": 8398.0,
+            "fora_cota_kg": 322.0,
+            "saldo_apos_kg": -322.0
+          }
+        ]
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 5795,
+      "nome": "MONICA MARCHETT",
+      "representante": "MSR VET",
+      "feno": {
+        "cota_kg": 8650.0,
+        "consumido_kg": 8940.0,
+        "saldo_kg": -290.0,
+        "percentual": 103.4,
+        "cota_padrao": false,
+        "transacoes": [
+          {
+            "data": "07/07/2026",
+            "quantidade_kg": 8940.0,
+            "dentro_cota_kg": 8650.0,
+            "fora_cota_kg": 290.0,
+            "saldo_apos_kg": -290.0
+          }
+        ]
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 1710,
+      "nome": "PINDORAMA AGROPECUARIA LTDA - ME",
+      "representante": "PATROAGRO",
+      "feno": {
+        "cota_kg": 8030.0,
+        "consumido_kg": 8280.0,
+        "saldo_kg": -250.0,
+        "percentual": 103.1,
+        "cota_padrao": false,
+        "transacoes": [
+          {
+            "data": "08/07/2026",
+            "quantidade_kg": 8280.0,
+            "dentro_cota_kg": 8030.0,
+            "fora_cota_kg": 250.0,
+            "saldo_apos_kg": -250.0
+          }
+        ]
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 4368,
+      "nome": "DUGRAO INDUSTRIA E COMERCIO DE RACAO LTDA",
+      "representante": "BRUNA",
+      "feno": {
+        "cota_kg": 8552.0,
+        "consumido_kg": 8740.0,
+        "saldo_kg": -188.0,
+        "percentual": 102.2,
+        "cota_padrao": false,
+        "transacoes": [
+          {
+            "data": "02/07/2026",
+            "quantidade_kg": 8740.0,
+            "dentro_cota_kg": 8552.0,
+            "fora_cota_kg": 188.0,
+            "saldo_apos_kg": -188.0
+          }
+        ]
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 6036,
+      "nome": "CLINICA VETERINARIA RBV LTDA",
+      "representante": "BRUNA",
+      "feno": {
+        "cota_kg": 8540.0,
+        "consumido_kg": 8670.0,
+        "saldo_kg": -130.0,
+        "percentual": 101.5,
+        "cota_padrao": false,
+        "transacoes": [
+          {
+            "data": "07/07/2026",
+            "quantidade_kg": 8670.0,
+            "dentro_cota_kg": 8540.0,
+            "fora_cota_kg": 130.0,
+            "saldo_apos_kg": -130.0
+          }
+        ]
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 6154,
+      "nome": "ADALBERTO APARECIDO VICENTE",
+      "representante": "RICARDO PIMENTA",
+      "feno": {
+        "cota_kg": 9690.0,
+        "consumido_kg": 9570.0,
+        "saldo_kg": 120.0,
+        "percentual": 98.8,
+        "cota_padrao": false,
+        "transacoes": [
+          {
+            "data": "11/07/2026",
+            "quantidade_kg": 9570.0,
+            "dentro_cota_kg": 9570.0,
+            "fora_cota_kg": 0.0,
+            "saldo_apos_kg": 120.0
+          }
+        ]
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 6949,
+      "nome": "CASSIO ALEXANDRE COSTA MAGALHAES JUNIOR",
+      "representante": "BRUNA",
+      "feno": {
+        "cota_kg": 8920.0,
+        "consumido_kg": 8500.0,
+        "saldo_kg": 420.0,
+        "percentual": 95.3,
+        "cota_padrao": false,
+        "transacoes": [
+          {
+            "data": "10/07/2026",
+            "quantidade_kg": 8500.0,
+            "dentro_cota_kg": 8500.0,
+            "fora_cota_kg": 0.0,
+            "saldo_apos_kg": 420.0
+          }
+        ]
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 2077,
+      "nome": "ERLANDO BRUNO BESSA",
+      "representante": "SIMONE",
+      "feno": {
+        "cota_kg": 360.0,
+        "consumido_kg": 340.0,
+        "saldo_kg": 20.0,
+        "percentual": 94.4,
+        "cota_padrao": false,
+        "transacoes": [
+          {
+            "data": "09/07/2026",
+            "quantidade_kg": 340.0,
+            "dentro_cota_kg": 340.0,
+            "fora_cota_kg": 0.0,
+            "saldo_apos_kg": 20.0
+          }
+        ]
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 3001,
+      "nome": "J7 AGROPECUARIA LTDA",
+      "representante": "BRUNA",
+      "feno": {
+        "cota_kg": 8320.0,
+        "consumido_kg": 7670.0,
+        "saldo_kg": 650.0,
+        "percentual": 92.2,
+        "cota_padrao": false,
+        "transacoes": [
+          {
+            "data": "11/07/2026",
+            "quantidade_kg": 7670.0,
+            "dentro_cota_kg": 7670.0,
+            "fora_cota_kg": 0.0,
+            "saldo_apos_kg": 650.0
+          }
+        ]
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 6561,
+      "nome": "ALCIDES ANDRADE ARAUJO JUNIOR",
+      "representante": "BRUNA",
+      "feno": {
+        "cota_kg": 8470.0,
+        "consumido_kg": 7808.0,
+        "saldo_kg": 662.0,
+        "percentual": 92.2,
+        "cota_padrao": false,
+        "transacoes": [
+          {
+            "data": "11/07/2026",
+            "quantidade_kg": 7808.0,
+            "dentro_cota_kg": 7808.0,
+            "fora_cota_kg": 0.0,
+            "saldo_apos_kg": 662.0
+          }
+        ]
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 1352,
+      "nome": "LEONARDO ARABE DE CASTRO BORGES",
+      "representante": "SIMONE",
+      "feno": {
+        "cota_kg": 605.0,
+        "consumido_kg": 550.0,
+        "saldo_kg": 55.0,
+        "percentual": 90.9,
+        "cota_padrao": false,
+        "transacoes": [
+          {
+            "data": "13/07/2026",
+            "quantidade_kg": 550.0,
+            "dentro_cota_kg": 550.0,
+            "fora_cota_kg": 0.0,
+            "saldo_apos_kg": 55.0
+          }
+        ]
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 6071,
+      "nome": "MARCOS CORTELETTI",
+      "representante": "BRUNA",
+      "feno": {
+        "cota_kg": 10598.33,
+        "consumido_kg": 9240.0,
+        "saldo_kg": 1358.33,
+        "percentual": 87.2,
+        "cota_padrao": false,
+        "transacoes": [
+          {
+            "data": "07/07/2026",
+            "quantidade_kg": 9240.0,
+            "dentro_cota_kg": 9240.0,
+            "fora_cota_kg": 0.0,
+            "saldo_apos_kg": 1358.33
+          }
+        ]
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 4935,
+      "nome": "MARCOS MARTINS DE ANDRADE",
+      "representante": "SAGRADA FAMILIA",
+      "feno": {
+        "cota_kg": 8903.33,
+        "consumido_kg": 7650.0,
+        "saldo_kg": 1253.33,
+        "percentual": 85.9,
+        "cota_padrao": false,
+        "transacoes": [
+          {
+            "data": "11/07/2026",
+            "quantidade_kg": 7650.0,
+            "dentro_cota_kg": 7650.0,
+            "fora_cota_kg": 0.0,
+            "saldo_apos_kg": 1253.33
+          }
+        ]
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 6012,
+      "nome": "RAIMUNDO MOREIRA JUNIOR",
+      "representante": "BRUNA",
+      "feno": {
+        "cota_kg": 4230.0,
+        "consumido_kg": 3570.0,
+        "saldo_kg": 660.0,
+        "percentual": 84.4,
+        "cota_padrao": false,
+        "transacoes": [
+          {
+            "data": "10/07/2026",
+            "quantidade_kg": 3570.0,
+            "dentro_cota_kg": 3570.0,
+            "fora_cota_kg": 0.0,
+            "saldo_apos_kg": 660.0
+          }
+        ]
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 5525,
+      "nome": "WILLIAM CRISTIAN DE SANTANA",
+      "representante": "BRUNA",
+      "feno": {
+        "cota_kg": 5209.0,
+        "consumido_kg": 4250.0,
+        "saldo_kg": 959.0,
+        "percentual": 81.6,
+        "cota_padrao": false,
+        "transacoes": [
+          {
+            "data": "09/07/2026",
+            "quantidade_kg": 4250.0,
+            "dentro_cota_kg": 4250.0,
+            "fora_cota_kg": 0.0,
+            "saldo_apos_kg": 959.0
+          }
+        ]
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 5611,
+      "nome": "FAZENDA E HARAS BOA VISTA LTDA",
+      "representante": "SAGRADA FAMILIA",
+      "feno": {
+        "cota_kg": 10942.5,
+        "consumido_kg": 8690.0,
+        "saldo_kg": 2252.5,
+        "percentual": 79.4,
+        "cota_padrao": false,
+        "transacoes": [
+          {
+            "data": "04/07/2026",
+            "quantidade_kg": 8690.0,
+            "dentro_cota_kg": 8690.0,
+            "fora_cota_kg": 0.0,
+            "saldo_apos_kg": 2252.5
+          }
+        ]
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 5062,
+      "nome": "SMCL LTDA",
+      "representante": "BRUNA",
+      "feno": {
+        "cota_kg": 7587.5,
+        "consumido_kg": 5850.0,
+        "saldo_kg": 1737.5,
+        "percentual": 77.1,
+        "cota_padrao": false,
+        "transacoes": [
+          {
+            "data": "08/07/2026",
+            "quantidade_kg": 5850.0,
+            "dentro_cota_kg": 5850.0,
+            "fora_cota_kg": 0.0,
+            "saldo_apos_kg": 1737.5
+          }
+        ]
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 5685,
+      "nome": "AGROPECUARIA CENCI LTDA",
+      "representante": "PATROAGRO",
+      "feno": {
+        "cota_kg": 23208.0,
+        "consumido_kg": 17380.0,
+        "saldo_kg": 5828.0,
+        "percentual": 74.9,
+        "cota_padrao": false,
+        "transacoes": [
+          {
+            "data": "10/07/2026",
+            "quantidade_kg": 17380.0,
+            "dentro_cota_kg": 17380.0,
+            "fora_cota_kg": 0.0,
+            "saldo_apos_kg": 5828.0
+          }
+        ]
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 5836,
+      "nome": "GUSTAVO FREDERICO BURGER AGUIAR",
+      "representante": "MSR VET",
+      "feno": {
+        "cota_kg": 12920.0,
+        "consumido_kg": 9370.0,
+        "saldo_kg": 3550.0,
+        "percentual": 72.5,
+        "cota_padrao": false,
+        "transacoes": [
+          {
+            "data": "01/07/2026",
+            "quantidade_kg": 9370.0,
+            "dentro_cota_kg": 9370.0,
+            "fora_cota_kg": 0.0,
+            "saldo_apos_kg": 3550.0
+          }
+        ]
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 1306,
+      "nome": "UBERABA RACOES E FERRAGENS LTDA",
+      "representante": "MSR VET",
+      "feno": {
+        "cota_kg": 12956.0,
+        "consumido_kg": 9180.0,
+        "saldo_kg": 3776.0,
+        "percentual": 70.9,
+        "cota_padrao": false,
+        "transacoes": [
+          {
+            "data": "01/07/2026",
+            "quantidade_kg": 9180.0,
+            "dentro_cota_kg": 9180.0,
+            "fora_cota_kg": 0.0,
+            "saldo_apos_kg": 3776.0
+          }
+        ]
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 6237,
+      "nome": "RENAN BERGER",
+      "representante": "BRUNA",
+      "feno": {
+        "cota_kg": 6620.0,
+        "consumido_kg": 4620.0,
+        "saldo_kg": 2000.0,
+        "percentual": 69.8,
+        "cota_padrao": false,
+        "transacoes": [
+          {
+            "data": "11/07/2026",
+            "quantidade_kg": 4620.0,
+            "dentro_cota_kg": 4620.0,
+            "fora_cota_kg": 0.0,
+            "saldo_apos_kg": 2000.0
+          }
+        ]
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 5706,
+      "nome": "RODRIGO PEREIRA DE OLIVEIRA",
+      "representante": "NAYARA",
+      "feno": {
+        "cota_kg": 536.67,
+        "consumido_kg": 370.0,
+        "saldo_kg": 166.67,
+        "percentual": 68.9,
+        "cota_padrao": false,
+        "transacoes": [
+          {
+            "data": "08/07/2026",
+            "quantidade_kg": 370.0,
+            "dentro_cota_kg": 370.0,
+            "fora_cota_kg": 0.0,
+            "saldo_apos_kg": 166.67
+          }
+        ]
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 390.0,
+        "saldo_kg": 49610.0,
+        "percentual": 0.8,
+        "cota_padrao": false,
+        "transacoes": [
+          {
+            "data": "08/07/2026",
+            "quantidade_kg": 390.0,
+            "dentro_cota_kg": 390.0,
+            "fora_cota_kg": 0.0,
+            "saldo_apos_kg": 49610.0
+          }
+        ]
+      }
+    },
+    {
+      "codigo": 2188,
+      "nome": "MAURILIO GOMES DIAS",
+      "representante": "BRUNA",
+      "feno": {
+        "cota_kg": 12616.67,
+        "consumido_kg": 7680.0,
+        "saldo_kg": 4936.67,
+        "percentual": 60.9,
+        "cota_padrao": false,
+        "transacoes": [
+          {
+            "data": "01/07/2026",
+            "quantidade_kg": 7680.0,
+            "dentro_cota_kg": 7680.0,
+            "fora_cota_kg": 0.0,
+            "saldo_apos_kg": 4936.67
+          }
+        ]
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 5736,
+      "nome": "TOMONORI TAKAHA",
+      "representante": "SAGRADA FAMILIA",
+      "feno": {
+        "cota_kg": 32568.33,
+        "consumido_kg": 19560.0,
+        "saldo_kg": 13008.33,
+        "percentual": 60.1,
+        "cota_padrao": false,
+        "transacoes": [
+          {
+            "data": "04/07/2026",
+            "quantidade_kg": 9420.0,
+            "dentro_cota_kg": 9420.0,
+            "fora_cota_kg": 0.0,
+            "saldo_apos_kg": 23148.33
+          },
+          {
+            "data": "06/07/2026",
+            "quantidade_kg": 10140.0,
+            "dentro_cota_kg": 10140.0,
+            "fora_cota_kg": 0.0,
+            "saldo_apos_kg": 13008.33
+          }
+        ]
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 4891,
+      "nome": "ARENALDO JOSE DE OLIVEIRA",
+      "representante": "SAGRADA FAMILIA",
+      "feno": {
+        "cota_kg": 11456.67,
+        "consumido_kg": 6410.0,
+        "saldo_kg": 5046.67,
+        "percentual": 55.9,
+        "cota_padrao": false,
+        "transacoes": [
+          {
+            "data": "04/07/2026",
+            "quantidade_kg": 6410.0,
+            "dentro_cota_kg": 6410.0,
+            "fora_cota_kg": 0.0,
+            "saldo_apos_kg": 5046.67
+          }
+        ]
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 3580.0,
+        "saldo_kg": 46420.0,
+        "percentual": 7.2,
+        "cota_padrao": true,
+        "transacoes": [
+          {
+            "data": "04/07/2026",
+            "quantidade_kg": 3580.0,
+            "dentro_cota_kg": 3580.0,
+            "fora_cota_kg": 0.0,
+            "saldo_apos_kg": 46420.0
+          }
+        ]
+      }
+    },
+    {
+      "codigo": 4820,
+      "nome": "HEDEILSON ALVES DE FIGUEIREDO",
+      "representante": "HEDEILSON",
+      "feno": {
+        "cota_kg": 12860.0,
+        "consumido_kg": 7160.0,
+        "saldo_kg": 5700.0,
+        "percentual": 55.7,
+        "cota_padrao": false,
+        "transacoes": [
+          {
+            "data": "03/07/2026",
+            "quantidade_kg": 7160.0,
+            "dentro_cota_kg": 7160.0,
+            "fora_cota_kg": 0.0,
+            "saldo_apos_kg": 5700.0
+          }
+        ]
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 6630,
+      "nome": "VOLKMAR BERGER",
+      "representante": "BRUNA",
+      "feno": {
+        "cota_kg": 8217.33,
+        "consumido_kg": 4520.0,
+        "saldo_kg": 3697.33,
+        "percentual": 55.0,
+        "cota_padrao": false,
+        "transacoes": [
+          {
+            "data": "11/07/2026",
+            "quantidade_kg": 4520.0,
+            "dentro_cota_kg": 4520.0,
+            "fora_cota_kg": 0.0,
+            "saldo_apos_kg": 3697.33
+          }
+        ]
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 6810,
+      "nome": "TERRA DE MINAS AGROPECUARIA LTDA",
+      "representante": "BRUNA",
+      "feno": {
+        "cota_kg": 8750.0,
+        "consumido_kg": 4452.0,
+        "saldo_kg": 4298.0,
+        "percentual": 50.9,
+        "cota_padrao": false,
+        "transacoes": [
+          {
+            "data": "11/07/2026",
+            "quantidade_kg": 4452.0,
+            "dentro_cota_kg": 4452.0,
+            "fora_cota_kg": 0.0,
+            "saldo_apos_kg": 4298.0
+          }
+        ]
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 2434,
+      "nome": "NUTRI TOP AGROPECUARIA LTDA",
+      "representante": "SAGRADA FAMILIA",
+      "feno": {
+        "cota_kg": 13862.0,
+        "consumido_kg": 6840.0,
+        "saldo_kg": 7022.0,
+        "percentual": 49.3,
+        "cota_padrao": false,
+        "transacoes": [
+          {
+            "data": "04/07/2026",
+            "quantidade_kg": 6840.0,
+            "dentro_cota_kg": 6840.0,
+            "fora_cota_kg": 0.0,
+            "saldo_apos_kg": 7022.0
+          }
+        ]
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 15800.0,
+        "saldo_kg": 34200.0,
+        "percentual": 31.6,
+        "cota_padrao": true,
+        "transacoes": [
+          {
+            "data": "04/07/2026",
+            "quantidade_kg": 3550.0,
+            "dentro_cota_kg": 3550.0,
+            "fora_cota_kg": 0.0,
+            "saldo_apos_kg": 46450.0
+          },
+          {
+            "data": "08/07/2026",
+            "quantidade_kg": 12250.0,
+            "dentro_cota_kg": 12250.0,
+            "fora_cota_kg": 0.0,
+            "saldo_apos_kg": 34200.0
+          }
+        ]
+      }
+    },
+    {
+      "codigo": 5295,
+      "nome": "WILSON GUEDES DA CRUZ",
+      "representante": "NAYARA",
+      "feno": {
+        "cota_kg": 1265.0,
+        "consumido_kg": 600.0,
+        "saldo_kg": 665.0,
+        "percentual": 47.4,
+        "cota_padrao": false,
+        "transacoes": [
+          {
+            "data": "02/07/2026",
+            "quantidade_kg": 600.0,
+            "dentro_cota_kg": 600.0,
+            "fora_cota_kg": 0.0,
+            "saldo_apos_kg": 665.0
+          }
+        ]
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 5317,
+      "nome": "CONSORCIO GESTAO FAUNA",
+      "representante": "SAGRADA FAMILIA",
+      "feno": {
+        "cota_kg": 16468.33,
+        "consumido_kg": 7810.0,
+        "saldo_kg": 8658.33,
+        "percentual": 47.4,
+        "cota_padrao": false,
+        "transacoes": [
+          {
+            "data": "03/07/2026",
+            "quantidade_kg": 7810.0,
+            "dentro_cota_kg": 7810.0,
+            "fora_cota_kg": 0.0,
+            "saldo_apos_kg": 8658.33
+          }
+        ]
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 5307,
+      "nome": "ROGERIO XAVIER MAGALHAES",
+      "representante": "BRUNA",
+      "feno": {
+        "cota_kg": 4070.0,
+        "consumido_kg": 1850.0,
+        "saldo_kg": 2220.0,
+        "percentual": 45.5,
+        "cota_padrao": false,
+        "transacoes": [
+          {
+            "data": "08/07/2026",
+            "quantidade_kg": 1850.0,
+            "dentro_cota_kg": 1850.0,
+            "fora_cota_kg": 0.0,
+            "saldo_apos_kg": 2220.0
+          }
+        ]
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 12630.0,
+        "saldo_kg": 37370.0,
+        "percentual": 25.3,
+        "cota_padrao": false,
+        "transacoes": [
+          {
+            "data": "08/07/2026",
+            "quantidade_kg": 12630.0,
+            "dentro_cota_kg": 12630.0,
+            "fora_cota_kg": 0.0,
+            "saldo_apos_kg": 37370.0
+          }
+        ]
+      }
+    },
+    {
+      "codigo": 1764,
+      "nome": "WALMIR GARCIA RODRIGUES",
+      "representante": "RICARDO PIMENTA",
+      "feno": {
+        "cota_kg": 5935.0,
+        "consumido_kg": 650.0,
+        "saldo_kg": 5285.0,
+        "percentual": 11.0,
+        "cota_padrao": false,
+        "transacoes": [
+          {
+            "data": "13/07/2026",
+            "quantidade_kg": 650.0,
+            "dentro_cota_kg": 650.0,
+            "fora_cota_kg": 0.0,
+            "saldo_apos_kg": 5285.0
+          }
+        ]
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 21410.0,
+        "saldo_kg": 28590.0,
+        "percentual": 42.8,
+        "cota_padrao": false,
+        "transacoes": [
+          {
+            "data": "13/07/2026",
+            "quantidade_kg": 21410.0,
+            "dentro_cota_kg": 21410.0,
+            "fora_cota_kg": 0.0,
+            "saldo_apos_kg": 28590.0
+          }
+        ]
+      }
+    },
+    {
+      "codigo": 6218,
+      "nome": "CABALLUS HIPICA E EVENTOS LTDA",
+      "representante": "BRUNA",
+      "feno": {
+        "cota_kg": 21081.67,
+        "consumido_kg": 8580.0,
+        "saldo_kg": 12501.67,
+        "percentual": 40.7,
+        "cota_padrao": false,
+        "transacoes": [
+          {
+            "data": "04/07/2026",
+            "quantidade_kg": 8580.0,
+            "dentro_cota_kg": 8580.0,
+            "fora_cota_kg": 0.0,
+            "saldo_apos_kg": 12501.67
+          }
+        ]
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 4324,
+      "nome": "FT SPORT HORSES LTDA",
+      "representante": "BRUNA",
+      "feno": {
+        "cota_kg": 5556.0,
+        "consumido_kg": 2150.0,
+        "saldo_kg": 3406.0,
+        "percentual": 38.7,
+        "cota_padrao": false,
+        "transacoes": [
+          {
+            "data": "08/07/2026",
+            "quantidade_kg": 2150.0,
+            "dentro_cota_kg": 2150.0,
+            "fora_cota_kg": 0.0,
+            "saldo_apos_kg": 3406.0
+          }
+        ]
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 6778,
+      "nome": "EDUARDO LUIZ DE FARIA",
+      "representante": "BRUNA",
+      "feno": {
+        "cota_kg": 4680.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 4680.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 14120.0,
+        "saldo_kg": 35880.0,
+        "percentual": 28.2,
+        "cota_padrao": false,
+        "transacoes": [
+          {
+            "data": "01/07/2026",
+            "quantidade_kg": 14120.0,
+            "dentro_cota_kg": 14120.0,
+            "fora_cota_kg": 0.0,
+            "saldo_apos_kg": 35880.0
+          }
+        ]
+      }
+    },
+    {
+      "codigo": 3198,
+      "nome": "HELVECIO OLIVEIRA COIMBRA",
+      "representante": "BRUNA",
+      "feno": {
+        "cota_kg": 12185.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 12185.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 13970.0,
+        "saldo_kg": 36030.0,
+        "percentual": 27.9,
+        "cota_padrao": false,
+        "transacoes": [
+          {
+            "data": "02/07/2026",
+            "quantidade_kg": 13970.0,
+            "dentro_cota_kg": 13970.0,
+            "fora_cota_kg": 0.0,
+            "saldo_apos_kg": 36030.0
+          }
+        ]
+      }
+    },
+    {
+      "codigo": 4917,
+      "nome": "PORTEIRA AGROPECUARIA LTDA",
+      "representante": "NAYARA",
+      "feno": {
+        "cota_kg": 15970.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 15970.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 13890.0,
+        "saldo_kg": 36110.0,
+        "percentual": 27.8,
+        "cota_padrao": false,
+        "transacoes": [
+          {
+            "data": "08/07/2026",
+            "quantidade_kg": 13890.0,
+            "dentro_cota_kg": 13890.0,
+            "fora_cota_kg": 0.0,
+            "saldo_apos_kg": 36110.0
+          }
+        ]
+      }
+    },
+    {
+      "codigo": 7042,
+      "nome": "GRUMARIM AGROPECUARIA LTDA",
+      "representante": "BRUNA",
+      "feno": null,
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 13740.0,
+        "saldo_kg": 36260.0,
+        "percentual": 27.5,
+        "cota_padrao": true,
+        "transacoes": [
+          {
+            "data": "10/07/2026",
+            "quantidade_kg": 13740.0,
+            "dentro_cota_kg": 13740.0,
+            "fora_cota_kg": 0.0,
+            "saldo_apos_kg": 36260.0
+          }
+        ]
+      }
+    },
+    {
+      "codigo": 7023,
+      "nome": "CELSO JOSE DE MELO",
+      "representante": "BRUNA",
+      "feno": null,
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 12380.0,
+        "saldo_kg": 37620.0,
+        "percentual": 24.8,
+        "cota_padrao": true,
+        "transacoes": [
+          {
+            "data": "03/07/2026",
+            "quantidade_kg": 12380.0,
+            "dentro_cota_kg": 12380.0,
+            "fora_cota_kg": 0.0,
+            "saldo_apos_kg": 37620.0
+          }
+        ]
+      }
+    },
+    {
+      "codigo": 6651,
+      "nome": "UNIAO AGRO CURVELO LTDA",
+      "representante": "NAYARA",
+      "feno": {
+        "cota_kg": 8330.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 8330.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 11360.0,
+        "saldo_kg": 38640.0,
+        "percentual": 22.7,
+        "cota_padrao": true,
+        "transacoes": [
+          {
+            "data": "08/07/2026",
+            "quantidade_kg": 440.0,
+            "dentro_cota_kg": 440.0,
+            "fora_cota_kg": 0.0,
+            "saldo_apos_kg": 49560.0
+          },
+          {
+            "data": "08/07/2026",
+            "quantidade_kg": 10920.0,
+            "dentro_cota_kg": 10920.0,
+            "fora_cota_kg": 0.0,
+            "saldo_apos_kg": 38640.0
+          }
+        ]
+      }
+    },
+    {
+      "codigo": 5487,
+      "nome": "ANTONIO CELSO AMERICANO",
+      "representante": "SAGRADA FAMILIA",
+      "feno": null,
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 11190.0,
+        "saldo_kg": 38810.0,
+        "percentual": 22.4,
+        "cota_padrao": false,
+        "transacoes": [
+          {
+            "data": "10/07/2026",
+            "quantidade_kg": 11190.0,
+            "dentro_cota_kg": 11190.0,
+            "fora_cota_kg": 0.0,
+            "saldo_apos_kg": 38810.0
+          }
+        ]
+      }
+    },
+    {
+      "codigo": 1993,
+      "nome": "HARAS ANANU AGROPECUARIA LTDA",
+      "representante": "BRUNA",
+      "feno": null,
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 8920.0,
+        "saldo_kg": 41080.0,
+        "percentual": 17.8,
+        "cota_padrao": false,
+        "transacoes": [
+          {
+            "data": "10/07/2026",
+            "quantidade_kg": 8920.0,
+            "dentro_cota_kg": 8920.0,
+            "fora_cota_kg": 0.0,
+            "saldo_apos_kg": 41080.0
+          }
+        ]
+      }
+    },
+    {
+      "codigo": 6548,
+      "nome": "VALDEMIR PIRES DE ARAUJO",
+      "representante": "NAYARA",
+      "feno": null,
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 5530.0,
+        "saldo_kg": 44470.0,
+        "percentual": 11.1,
+        "cota_padrao": false,
+        "transacoes": [
+          {
+            "data": "09/07/2026",
+            "quantidade_kg": 5530.0,
+            "dentro_cota_kg": 5530.0,
+            "fora_cota_kg": 0.0,
+            "saldo_apos_kg": 44470.0
+          }
+        ]
+      }
+    },
+    {
+      "codigo": 7039,
+      "nome": "SEBASTIAO DE BARROS QUINTAO",
+      "representante": "SAGRADA FAMILIA",
+      "feno": null,
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 4650.0,
+        "saldo_kg": 45350.0,
+        "percentual": 9.3,
+        "cota_padrao": true,
+        "transacoes": [
+          {
+            "data": "09/07/2026",
+            "quantidade_kg": 4650.0,
+            "dentro_cota_kg": 4650.0,
+            "fora_cota_kg": 0.0,
+            "saldo_apos_kg": 45350.0
+          }
+        ]
+      }
+    },
+    {
+      "codigo": 6336,
+      "nome": "RODRIGO GONCALVES ROCHA LTDA",
+      "representante": "NAYARA",
+      "feno": {
+        "cota_kg": 250.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 250.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 2880.0,
+        "saldo_kg": 47120.0,
+        "percentual": 5.8,
+        "cota_padrao": true,
+        "transacoes": [
+          {
+            "data": "07/07/2026",
+            "quantidade_kg": 2880.0,
+            "dentro_cota_kg": 2880.0,
+            "fora_cota_kg": 0.0,
+            "saldo_apos_kg": 47120.0
+          }
+        ]
+      }
+    },
+    {
+      "codigo": 5043,
+      "nome": "MURILO BRAGA ZICA",
+      "representante": "BRUNA",
+      "feno": null,
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 2840.0,
+        "saldo_kg": 47160.0,
+        "percentual": 5.7,
+        "cota_padrao": false,
+        "transacoes": [
+          {
+            "data": "10/07/2026",
+            "quantidade_kg": 2840.0,
+            "dentro_cota_kg": 2840.0,
+            "fora_cota_kg": 0.0,
+            "saldo_apos_kg": 47160.0
+          }
+        ]
+      }
+    },
+    {
+      "codigo": 7006,
+      "nome": "IVANILDO CARDOSO DA SILVA",
+      "representante": "NAYARA",
+      "feno": null,
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 2610.0,
+        "saldo_kg": 47390.0,
+        "percentual": 5.2,
+        "cota_padrao": true,
+        "transacoes": [
+          {
+            "data": "01/07/2026",
+            "quantidade_kg": 2610.0,
+            "dentro_cota_kg": 2610.0,
+            "fora_cota_kg": 0.0,
+            "saldo_apos_kg": 47390.0
+          }
+        ]
+      }
+    },
+    {
+      "codigo": 6667,
+      "nome": "TRIPLICE AGRONEGOCIO LTDA",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 8783.33,
+        "consumido_kg": 0.0,
+        "saldo_kg": 8783.33,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 5654,
+      "nome": "DIMAS DE DEUS VIEIRA",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 8776.67,
+        "consumido_kg": 0.0,
+        "saldo_kg": 8776.67,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 4639,
+      "nome": "MILTON ALVARENGA MONTEIRO",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 8616.67,
+        "consumido_kg": 0.0,
+        "saldo_kg": 8616.67,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 6027,
+      "nome": "GUSTAVO REZENDE MOREIRA DA ROCHA",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 6440.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 6440.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 5419,
+      "nome": "JEMIMA DE AMORIM TEODORO ROCHA",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 4596.67,
+        "consumido_kg": 0.0,
+        "saldo_kg": 4596.67,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 5740,
+      "nome": "JULIANO DE FREITAS ANDRADE",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 9250.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 9250.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 5865,
+      "nome": "MARCOS JOSE TAVARES BARBOSA",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 8560.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 8560.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 1169,
+      "nome": "COOPERATIVA DOS PRODUTORES RURAIS DE ITAUNA LIMITADA",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 7042.5,
+        "consumido_kg": 0.0,
+        "saldo_kg": 7042.5,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 1900,
+      "nome": "MAICON VIEIRA PIRES",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 7830.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 7830.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 4437,
+      "nome": "AGROPECUARIA NELORE PARANA LTDA",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 9433.33,
+        "consumido_kg": 0.0,
+        "saldo_kg": 9433.33,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 5463,
+      "nome": "BRAULIO DE SOUSA FIGUEIRO",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 9616.67,
+        "consumido_kg": 0.0,
+        "saldo_kg": 9616.67,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 6620,
+      "nome": "RODOLFO TAMOTSU LOPES TANAKA",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 5370.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 5370.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 5397,
+      "nome": "LUIZ RICARDO LAGERCRANTZ XAVIER",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 8782.5,
+        "consumido_kg": 0.0,
+        "saldo_kg": 8782.5,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 5991,
+      "nome": "ROBERTO DIAS ARAUJO 04289039677",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 8927.5,
+        "consumido_kg": 0.0,
+        "saldo_kg": 8927.5,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 5313,
+      "nome": "VAGNER GONCALVES SOUZA/MONFORTE FRIO",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 9150.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 9150.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 566,
+      "nome": "COOPERATIVA AGROPECUARIA DA GR",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 7442.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 7442.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 1780,
+      "nome": "WESLEY MUNIZ DE BRITO",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 4840.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 4840.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 4619,
+      "nome": "GUILHERME KNYCHALA",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 9250.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 9250.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 4545,
+      "nome": "VALTUNIR JOSE PEREIRA",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 9245.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 9245.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 1247,
+      "nome": "RONDINELE ROBERTO LEMOS - ME",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 3075.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 3075.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 1908,
+      "nome": "WILSON CAPACIA FILHO",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 9215.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 9215.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 5103,
+      "nome": "SILMAR GERALDO MARTINS",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 9185.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 9185.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 6708,
+      "nome": "CENTRO DE EQUITACAO WMJPALMA LTDA",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 9090.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 9090.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 2241,
+      "nome": "ANTONIO CARLOS CHAVES DE RESENDE",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 9090.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 9090.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 6779,
+      "nome": "JULIO CESAR PEREIRA DAS NEVES",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 18700.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 18700.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 4336,
+      "nome": "GINA CERCHI CREMA",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 8875.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 8875.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 5517,
+      "nome": "MARCOS REZENDE GOMES",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 8625.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 8625.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 2338,
+      "nome": "FABIO PEREIRA GUIMARAES",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 5673.33,
+        "consumido_kg": 0.0,
+        "saldo_kg": 5673.33,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 5659,
+      "nome": "GUSTAVO HENRIQUE TOLEDO CINTRA",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 8390.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 8390.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 6948,
+      "nome": "MIGUEL MARQUES DE ANDRADE",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 9100.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 9100.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 5483,
+      "nome": "FELIPE AUGUSTO QUEIROZ SILVA",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 8190.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 8190.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 426,
+      "nome": "DJAIR DE SOUSA NIQUINI & CIA LTDA",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 8115.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 8115.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 5686,
+      "nome": "ODINEI PIRES CENCI",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 9085.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 9085.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 5374,
+      "nome": "EDSON ALVES DOS REIS JUNIOR",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 8393.33,
+        "consumido_kg": 0.0,
+        "saldo_kg": 8393.33,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 5420,
+      "nome": "AGROPECUARIA RANCHO DE ITAPERUNA LTDA",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 8320.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 8320.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 4655,
+      "nome": "FAISAO AGROPECUARIA LTDA",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 8136.67,
+        "consumido_kg": 0.0,
+        "saldo_kg": 8136.67,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 424,
+      "nome": "CONTAGRO LTDA",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 8600.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 8600.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 5948,
+      "nome": "VICENTE DE PAULA FERREIRA NETO",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 7936.67,
+        "consumido_kg": 0.0,
+        "saldo_kg": 7936.67,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 5887,
+      "nome": "ADIMAR PEREIRA DE SOUSA",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 7546.67,
+        "consumido_kg": 0.0,
+        "saldo_kg": 7546.67,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 6733,
+      "nome": "ELOIZA ROSA ESPINDULA ASCACIBAS",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 9295.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 9295.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 5705,
+      "nome": "HARAS DEL REY LTDA.",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 6850.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 6850.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 3882,
+      "nome": "PAULO CESAR FERNANDES CAMPOS",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 10245.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 10245.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 138,
+      "nome": "MAGNO ALBERTO XAVIER",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 10155.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 10155.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 4506,
+      "nome": "BRENO REZENDE HENRIQUES",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 6770.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 6770.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 4816,
+      "nome": "PEQUENOS PETS LTDA",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 10105.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 10105.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 1161,
+      "nome": "AGROVETERINARIA PS LTDA",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 6433.33,
+        "consumido_kg": 0.0,
+        "saldo_kg": 6433.33,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 5851,
+      "nome": "AMARILDO GONCALVES FERREIRA",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 9475.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 9475.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 3814,
+      "nome": "MF CAMARGOS AGROPECUARIA LTDA",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 6943.33,
+        "consumido_kg": 0.0,
+        "saldo_kg": 6943.33,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 6769,
+      "nome": "JONNY AMARAL ALVES",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 670.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 670.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 6505,
+      "nome": "HELENO CALHEIROS MURY",
+      "representante": "Sem vendas no mês",
+      "feno": null,
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 6740,
+      "nome": "DANIELE APARECIDA ASSUNCAO OLIVEIRA",
+      "representante": "Sem vendas no mês",
+      "feno": null,
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 5894,
+      "nome": "DALVO MOREIRA CHAVES",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 4920.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 4920.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 6674,
+      "nome": "CLAUDIO MANOEL MACEDO CERQUEIRA",
+      "representante": "Sem vendas no mês",
+      "feno": null,
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 3007,
+      "nome": "CERGIO MARCOS BRUM",
+      "representante": "Sem vendas no mês",
+      "feno": null,
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 6009,
+      "nome": "CELESTE MARIA DE SOUZA",
+      "representante": "Sem vendas no mês",
+      "feno": null,
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 6645,
+      "nome": "BRAULIO DE SOUSA FIGUEIRO",
+      "representante": "Sem vendas no mês",
+      "feno": null,
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 1508,
+      "nome": "ANTONIO MARTINS ARAUJO NETO E OUTROS",
+      "representante": "Sem vendas no mês",
+      "feno": null,
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 205,
+      "nome": "WALTER VINICIUS DA SILVA",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 4980.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 4980.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 1715,
+      "nome": "LUIZ CLAUDIO MENDES VALLE",
+      "representante": "Sem vendas no mês",
+      "feno": null,
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 4616,
+      "nome": "VIRGILIO VILLEFORT MARTINS JUNIOR",
+      "representante": "Sem vendas no mês",
+      "feno": null,
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 4576,
+      "nome": "VALTER JOSE DE SANTANA",
+      "representante": "Sem vendas no mês",
+      "feno": null,
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 229,
+      "nome": "SEBASTIAO MARTINS DA SILVA",
+      "representante": "Sem vendas no mês",
+      "feno": null,
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 5693,
+      "nome": "SAMERSON VALERIANO BORGES",
+      "representante": "Sem vendas no mês",
+      "feno": null,
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 6088,
+      "nome": "RIZONEIDE PEREIRA DA SILVA",
+      "representante": "Sem vendas no mês",
+      "feno": null,
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 5881,
+      "nome": "PEDRO MARTINS BOMTEMPO",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 7697.5,
+        "consumido_kg": 0.0,
+        "saldo_kg": 7697.5,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 6408,
+      "nome": "PAULO EUSTAQUIO LUIZ DE ALMEIDA",
+      "representante": "Sem vendas no mês",
+      "feno": null,
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 5441,
+      "nome": "PATROAGRO AGRONEGOCIOS LTDA",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 15450.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 15450.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 6294,
+      "nome": "NEYLOR NILO CALDEIRA PEREIRA",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 3960.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 3960.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 2954,
+      "nome": "NELSON ABRAS",
+      "representante": "Sem vendas no mês",
+      "feno": null,
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 5633,
+      "nome": "MEIRISDETE DO NASCIMENTO FARIA BERNARDES",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 4415.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 4415.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 4429,
+      "nome": "MARIO AYRES CASSANI",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 8730.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 8730.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 6699,
+      "nome": "MARCO ANTONIO GONCALVES DE CASTRO",
+      "representante": "Sem vendas no mês",
+      "feno": null,
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 5855,
+      "nome": "MAICHAEL HANDELL CAIXETA",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 4430.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 4430.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 2455,
+      "nome": "SERGIO AUGUSTO DE ALMEIDA BRAGA e outro(s)",
+      "representante": "Sem vendas no mês",
+      "feno": null,
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 6917,
+      "nome": "JOSE EDUARDO DE CASTRO RANGEL",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 4030.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 4030.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 6272,
+      "nome": "LEONALDO MARQUES DE AVILA",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 9485.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 9485.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 5413,
+      "nome": "MINAVERDE SOLUCOES EM HIDROSSEMEADURA LTDA",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 8160.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 8160.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 5805,
+      "nome": "AGROPECUARIA NO DA SILVA LTDA",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 8065.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 8065.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 5869,
+      "nome": "JOAO CARLOS COELHO DE OLIVEIRA",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 10215.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 10215.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 6274,
+      "nome": "ITALO MENDES SILVEIRA",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 3950.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 3950.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 6220,
+      "nome": "KARINE TIEMI MAKIYAM",
+      "representante": "Sem vendas no mês",
+      "feno": null,
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 4603,
+      "nome": "AUGUSTO ALVES DE OLIVEIRA JUNIOR",
+      "representante": "Sem vendas no mês",
+      "feno": null,
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 3085,
+      "nome": "YURI SEMANSKY ENGLER",
+      "representante": "Sem vendas no mês",
+      "feno": null,
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 5768,
+      "nome": "WILSON PAZINI JUNIOR",
+      "representante": "Sem vendas no mês",
+      "feno": null,
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 5925,
+      "nome": "SUPERMERCADO DO POVO JK LTDA",
+      "representante": "Sem vendas no mês",
+      "feno": null,
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 5792,
+      "nome": "SONJA FRANCISCA FIGUEIREDO LACERDA",
+      "representante": "Sem vendas no mês",
+      "feno": null,
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 5527,
+      "nome": "SANDALO MENDES BORGES",
+      "representante": "Sem vendas no mês",
+      "feno": null,
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 1580,
+      "nome": "RUBENS BALIEIRO DE SOUZA",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 8545.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 8545.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 2374,
+      "nome": "ROBERTO PAULO LEAL CORREA E OUTROS",
+      "representante": "Sem vendas no mês",
+      "feno": null,
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 6194,
+      "nome": "REVALDERE DE CASTRO",
+      "representante": "Sem vendas no mês",
+      "feno": null,
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 6557,
+      "nome": "PAULO FERNANDO PENA JUNIOR",
+      "representante": "Sem vendas no mês",
+      "feno": null,
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 6532,
+      "nome": "MIGUEL AFONSO ANDRADE LEITE",
+      "representante": "Sem vendas no mês",
+      "feno": null,
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 5183,
+      "nome": "MGM - INDUSTRIA E COMERCIO DE ADITIVO INDUSTRIAIS LTDA",
+      "representante": "Sem vendas no mês",
+      "feno": null,
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 4579,
+      "nome": "MINAS RURAL AGRO NEGOCIOS LTDA",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 17931.67,
+        "consumido_kg": 0.0,
+        "saldo_kg": 17931.67,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 4582,
+      "nome": "RANCHO DA VACA AGROPECUARIA LTDA",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 4405.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 4405.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 5429,
+      "nome": "SERGIO DE VASCONCELOS DE SOUZA",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 4405.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 4405.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 5437,
+      "nome": "AFONSO MARIA VINHAL",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 4470.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 4470.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 1198,
+      "nome": "MARIA DO CARMO RIBEIRO",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 4568.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 4568.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 5126,
+      "nome": "CARLOS AUGUSTO KARAM",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 4770.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 4770.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 4837,
+      "nome": "MARIA DE FATIMA DINIZ CAMARGOS",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 4780.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 4780.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 6641,
+      "nome": "ANDRE DOS SANTOS GONZAGA",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 4890.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 4890.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 5306,
+      "nome": "CASA DE RACAO PAULA E SOUZA LTDA",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 4910.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 4910.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 5492,
+      "nome": "THIAGO MONTEIRO CORREA",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 5210.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 5210.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 6545,
+      "nome": "DANIEL AFONSO MACHADO",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 5300.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 5300.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 5980,
+      "nome": "RUBENS LESSA CARVALHO",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 5410.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 5410.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 5327,
+      "nome": "COOPERATIVA AGRICOLA ALTO RIO GRANDE LTDA",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 5600.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 5600.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 6823,
+      "nome": "AGROTOP COMERCIO LTDA",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 6030.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 6030.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 4659,
+      "nome": "COOPERATIVA AGROPECUARIA DE FERROS LTDA",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 8010.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 8010.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 5537,
+      "nome": "EDUARDO FERREIRA AMARAL",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 2696.67,
+        "consumido_kg": 0.0,
+        "saldo_kg": 2696.67,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 6622,
+      "nome": "DIORRANE KESTER",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 7630.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 7630.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 252,
+      "nome": "LEONARDO DIAS MOREIRA DE ABREU",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 7440.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 7440.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 2605,
+      "nome": "ANTONIO RIBEIRO VINHAL",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 7510.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 7510.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 6308,
+      "nome": "JOAO HUMBERTO CLEMENTE",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 6270.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 6270.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 6652,
+      "nome": "AGRO NOVA PRODUTOS AGROPECUARIOS LTDA",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 3325.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 3325.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 1933,
+      "nome": "BRUNO LEROY RIZZO",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 350.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 350.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 5621,
+      "nome": "PEDRO BRANDAO SAKR KHOURI",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 6610.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 6610.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 6354,
+      "nome": "PETRUS LOCACAO E SERVICOS LTDA",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 3290.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 3290.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 3553,
+      "nome": "GERALDO FIRMINO DA SILVA",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 6530.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 6530.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 1148,
+      "nome": "HELGA MARIA CARVALHO FONSECA JETTER E OUTRO(S) FAZENDA DALLAS AGROPECUARIA",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 6500.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 6500.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 1867,
+      "nome": "PAULO SERGIO DA COSTA MACHADO",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 6480.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 6480.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 2441,
+      "nome": "SILVIO FRANCISCO MOTTA MOREIRA",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 6460.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 6460.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 4049,
+      "nome": "VITOR CARDOSO TORRE LEAO",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 7460.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 7460.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 5365,
+      "nome": "GAMA COMERCIO ATACADISTA LTDA",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 2520.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 2520.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 6643,
+      "nome": "LEANORDO DE ALMEIDA BALSAMAO",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 2320.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 2320.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 6084,
+      "nome": "JORGE RODRIGUES ROCHA",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 1145.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 1145.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 5618,
+      "nome": "HELIS JOSE SOARES",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 2250.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 2250.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 6315,
+      "nome": "LUIZ HENRIQUE CARDOSO DINIZ",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 2250.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 2250.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 5576,
+      "nome": "PEDRO FERNANDO MAGALHAES AGUIAR",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 280.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 280.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 4851,
+      "nome": "EPITACIO AGUILAR GOMES",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 1790.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 1790.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 4575,
+      "nome": "CASA DOS COELHOS E CIA-NAYARA MENDES GONCALVES VALE 10817741690",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 456.67,
+        "consumido_kg": 0.0,
+        "saldo_kg": 456.67,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 1652,
+      "nome": "LUCIANO PAIVA NOGUEIRA E OUTROS",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 600.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 600.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 6233,
+      "nome": "JCM AGROPECUARIA LTDA",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 630.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 630.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 6099,
+      "nome": "MANOEL CARLOS ALVES DA CUNHA",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 1130.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 1130.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 1337,
+      "nome": "SERTANEJA COMERCIO DE PRODUTOS AGROPECUARIOS LTDA",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 790.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 790.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 5558,
+      "nome": "GUILHERME PAIVA CASTRO",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 660.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 660.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 1229,
+      "nome": "ANTONIO MAYRINK PINTO COELHO",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 2200.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 2200.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 2118,
+      "nome": "EDUARDO COULAUD DA COSTA CRUZ JUNIOR e outro(s)",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 1680.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 1680.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 3115,
+      "nome": "NOVA ELETRICA LTDA",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 4380.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 4380.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 4817,
+      "nome": "TALITHA NEIDE CAMPOS SOUSA MARQUES",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 4370.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 4370.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 6822,
+      "nome": "TAZAY TRANSPORTES LTDA",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 4360.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 4360.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 6316,
+      "nome": "MAURO OLIVEIRA FLORES FONSECA",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 1030.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 1030.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 6623,
+      "nome": "DYLAN ARMANI MARTINEZ",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 370.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 370.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 4463,
+      "nome": "MARIA DE LOURDES CUNHA SILVEIRA E OUTROS",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 4090.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 4090.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 6824,
+      "nome": "SABRINA ALVES RIBEIRO COSTA",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 2660.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 2660.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 1678,
+      "nome": "OLAVO ALVES CORGOZINHO",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 3860.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 3860.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 5518,
+      "nome": "LV RURAL LTDA",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 3830.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 3830.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 1338,
+      "nome": "BCF COMERCIO E EMPREENDIMENTOS LTDA",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 3390.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 3390.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 5325,
+      "nome": "ROBERTO CARLOS DE SOUZA",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 3200.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 3200.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 5741,
+      "nome": "GLAUCIA JANAINA DINIZ JORGE",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 2980.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 2980.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 2211,
+      "nome": "JOAO LUCIO COELHO",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 2850.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 2850.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 6826,
+      "nome": "FLAVIO NEVES PEREIRA",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 2830.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 2830.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 4570,
+      "nome": "CAFE PADDOCK LTDA",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 4040.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 4040.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 6011,
+      "nome": "HARAS BEIJA FLOR",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 9690.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 9690.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 6924,
+      "nome": "CARLOS HENRIQUE MOREIRA CARVALHO",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 9760.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 9760.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 5557,
+      "nome": "ARCOS AGROPECUARIA LTDA",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 11970.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 11970.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 4973,
+      "nome": "FLAVIA BECHTINGER FERNANDES DE ALMEIDA",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 5490.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 5490.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 1876,
+      "nome": "DAVID CAETANO FERNANDES DE CARVALHO",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 10330.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 10330.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 330,
+      "nome": "RAFAEL DE LIMA AZEVEDO",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 110.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 110.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 1147,
+      "nome": "TERRA DO FAZENDEIRO AGROPECUÁRIA LTDA",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 3433.33,
+        "consumido_kg": 0.0,
+        "saldo_kg": 3433.33,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 4239,
+      "nome": "SANZIO REIS BARBOSA",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 8130.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 8130.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 6026,
+      "nome": "MARIANA EMANUELE PORTELA MOURAO",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 5030.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 5030.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 6199,
+      "nome": "JFT IMOVEIS LTDA",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 4855.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 4855.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 1173,
+      "nome": "ROBSON SILVEIRA VILETE",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 9650.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 9650.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 5114,
+      "nome": "BRUNO SILVA DE CASTRO",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 9600.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 9600.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 3098,
+      "nome": "BRUNO CIOGLIA DIAS GONTIJO",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 9530.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 9530.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 6716,
+      "nome": "SERGIO JOSE RIBEIRO FILHO",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 9510.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 9510.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 5844,
+      "nome": "JOSE LUIZ SOARES",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 9430.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 9430.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 6715,
+      "nome": "MARCO ANTONIO DUARTE VELOSO",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 10140.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 10140.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 4024,
+      "nome": "MAURO ELI DE MELO",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 8020.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 8020.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 5531,
+      "nome": "WILLER JOSE VIEIRA DE LIMA",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 15560.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 15560.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 6215,
+      "nome": "COLONIAL TRANSPORTES LTDA",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 5110.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 5110.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 4614,
+      "nome": "ALDEU JARDIM DOS SANTOS",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 3720.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 3720.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 2348,
+      "nome": "LUIZ EDUARDO DE SOUZA",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 7430.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 7430.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 47,
+      "nome": "TERRA BOA AGROPECUARIA LTDA - ME",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 4890.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 4890.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 6730,
+      "nome": "GUILHERME HENRIQUE ANDRADE JUNQUEIRA",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 14410.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 14410.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 6546,
+      "nome": "WESLEY M. CUNHA",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 5625.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 5625.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 957,
+      "nome": "CARLOS ANTONIO TEIXEIRA",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 6970.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 6970.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 6673,
+      "nome": "TROPICAL AGROPECUARIA LTDA",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 6840.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 6840.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 5743,
+      "nome": "ATAILIO GEOVANI DOS SANTOS",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 9510.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 9510.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 2651,
+      "nome": "LEONARDO DE LIMA AVELAR",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 6650.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 6650.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 1150,
+      "nome": "JULIANA MARIA DINIZ",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 4288.33,
+        "consumido_kg": 0.0,
+        "saldo_kg": 4288.33,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 4690,
+      "nome": "DROGARIA PADOVANI & VERDOLIN LTDA",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 4276.67,
+        "consumido_kg": 0.0,
+        "saldo_kg": 4276.67,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 259,
+      "nome": "CASA DE RACAO DUQUIM LTDA",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 3000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 3000.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 1168,
+      "nome": "SF COMERCIO DE PRODUTOS PARA CASA, CAMPO E CRIACAO LTDA",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 3915.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 3915.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 5982,
+      "nome": "MARCOS CESAR CAIXETA",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 7080.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 7080.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 2392,
+      "nome": "JOSE PEREIRA DA SILVA",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 8670.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 8670.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 5423,
+      "nome": "COMERCIAL PINTON LTDA",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 8600.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 8600.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 6355,
+      "nome": "GISELE DIAS SA",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 8550.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 8550.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 6792,
+      "nome": "LUCAS HENRIQUE ANDRADE SILVA",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 8460.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 8460.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 6604,
+      "nome": "ANTONIO MAURICIO DA GLORIA E SILVA",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 8370.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 8370.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 6631,
+      "nome": "ADELINO ARMANI NETO",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 8330.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 8330.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 1705,
+      "nome": "FAZENDA DO SABIA LTDA",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 9350.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 9350.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 2630,
+      "nome": "S. GREANY MADEIRA COMERCIO, DISTRIBUICAO E SERVICOS LTDA",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 4128.5,
+        "consumido_kg": 0.0,
+        "saldo_kg": 4128.5,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 5727,
+      "nome": "LUCAS SILVA NAGANO",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 8240.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 8240.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 51,
+      "nome": "CLEBER JUNIOR SANTOS COSTA",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 8240.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 8240.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 6171,
+      "nome": "GILCEU CARVALHO DA SILVA",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 270.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 270.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 2606,
+      "nome": "JEX AGRICULTURA LTDA",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 8210.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 8210.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 1913,
+      "nome": "SUDARIO LOURENCO DA CRUZ",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 8190.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 8190.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 1889,
+      "nome": "RANCHO DE MINAS ESPACO DE SAUDE EQUESTRE EIRELI",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 8180.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 8180.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 5197,
+      "nome": "CLAUDIO JUNQUEIRA FERRAZ DE ALMEIDA",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 8140.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 8140.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 4232,
+      "nome": "GERALDO FERNANDES DE SANTANA",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 8290.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 8290.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 5750,
+      "nome": "ALBERTO ALUIZIO PACHECO DE ANDRADE",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 9250.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 9250.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 6412,
+      "nome": "AMIR NUNES DA SILVA",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 9220.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 9220.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 4242,
+      "nome": "SERGIO QUEIROZ CAIXETA",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 9200.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 9200.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 2278,
+      "nome": "HEDILSON GARCIA RODRIGUES",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 9140.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 9140.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 6445,
+      "nome": "MARCOS ANTONIO HELMER",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 9020.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 9020.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 1627,
+      "nome": "AGROCARMELO PRODUTOS AGROPECUARIOS LTDA",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 9000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 9000.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 5054,
+      "nome": "DANIEL HENRIQUE CUNHA ROCHA",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 8990.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 8990.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 6407,
+      "nome": "MARIA ROZANIA VELOSO DA CUNHA",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 8680.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 8680.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 6814,
+      "nome": "SCHUAB ARMAZEM E COMERCIO LTDA",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 8960.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 8960.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 5781,
+      "nome": "FAZENDA MAE MARIA LTDA",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 8910.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 8910.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 5308,
+      "nome": "ICARO NERY COSTA/ALFAFA IBITURUNA",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 8910.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 8910.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 1446,
+      "nome": "MATEUS DE OLIVEIRA",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 8880.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 8880.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 1525,
+      "nome": "EDERSON BARBOSA MACIEL",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 8880.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 8880.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 5312,
+      "nome": "VICTOR DE SOUZA CAMPOS",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 4380.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 4380.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 5884,
+      "nome": "BRUNO LAGE DUARTE",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 4350.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 4350.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 2421,
+      "nome": "EDSON AGUIAR FILHO",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 8980.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 8980.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 5786,
+      "nome": "ENIR GOMES BARBOSA",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 9030.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 9030.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 6676,
+      "nome": "ALBERTO CARLOS DE FREITAS RAMOS JUNIOR",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 4865.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 4865.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 5619,
+      "nome": "FAG AGRONEGOCIOS LTDA",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 1964.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 1964.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 4505,
+      "nome": "HARAS GATTI CRIACAO DE EQUINOS LTDA",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 6875.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 6875.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 128,
+      "nome": "VANDERLEI MARTINS VEIGA E OUTRO(S)",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 5415.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 5415.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 4497,
+      "nome": "CHRISTIAN GONCALVES MARTINS",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 3955.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 3955.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 6440,
+      "nome": "ALBERT HENRIQUE FROSSARD PAES",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 8910.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 8910.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 5859,
+      "nome": "GUSTAVO ROCHA CARDOSO",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 8603.33,
+        "consumido_kg": 0.0,
+        "saldo_kg": 8603.33,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 6224,
+      "nome": "WALDEMIR BARBOSA JUNIOR",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 670.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 670.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 5112,
+      "nome": "ANTONIO ERNESTO NERY GOMES CARNEIRO",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 8483.33,
+        "consumido_kg": 0.0,
+        "saldo_kg": 8483.33,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 5407,
+      "nome": "VANDERLEY FERNANDES DE PAULA",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 7763.33,
+        "consumido_kg": 0.0,
+        "saldo_kg": 7763.33,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 5191,
+      "nome": "MARCOS ANTONIO DA FONSECA",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 1486.67,
+        "consumido_kg": 0.0,
+        "saldo_kg": 1486.67,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 4305,
+      "nome": "BUILDPLAN CONTRUCOES PRE MOLDADAS LTDA",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 830.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 830.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": true,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 4892,
+      "nome": "FERNANDO MELLO VIANNA NETTO",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 5050.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 5050.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 5922,
+      "nome": "JOHANN FRIEDRICH VOLKER KARL JOERIS SCHICHT",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 17630.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 17630.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 146,
+      "nome": "FUNAGRO FUNILANDIA AGROPECUARIA LTDA",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 2885.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 2885.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 400,
+      "nome": "CRISTIANO SALGADO PURGER",
+      "representante": "Sem vendas no mês",
+      "feno": null,
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 322,
+      "nome": "SEBASTIAO JAIRO DE CARVALHO",
+      "representante": "Sem vendas no mês",
+      "feno": null,
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 5490,
+      "nome": "PAULA CONTIN LEITE DA CUNHA",
+      "representante": "Sem vendas no mês",
+      "feno": null,
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 6238,
+      "nome": "MARIA BEATRIZ TEIXEIRA PEREIRA",
+      "representante": "Sem vendas no mês",
+      "feno": null,
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 6201,
+      "nome": "MARCELO VIEIRA DE RESENDE",
+      "representante": "Sem vendas no mês",
+      "feno": null,
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 321,
+      "nome": "LUIZ GUSTAVO CAMPOS PORTUGUAL",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 7880.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 7880.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 6513,
+      "nome": "LUIS AUGUSTO BERNARDES FILHO",
+      "representante": "Sem vendas no mês",
+      "feno": null,
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 6161,
+      "nome": "JOSE MARCIO DE SIMONI SILVEIRA",
+      "representante": "SAGRADA FAMILIA",
+      "feno": null,
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 5608,
+      "nome": "BARBARA KALLAS",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 770.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 770.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 6732,
+      "nome": "EPIFANIO VICENTE DA SILVA",
+      "representante": "Sem vendas no mês",
+      "feno": null,
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 5976,
+      "nome": "FERNANDO LUIZ SYRIO",
+      "representante": "Sem vendas no mês",
+      "feno": null,
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 6862,
+      "nome": "FLAVIO DANIEL ALVES PINTO",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 5030.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 5030.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 3742,
+      "nome": "FORTE DIESEL LTDA",
+      "representante": "Sem vendas no mês",
+      "feno": null,
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 6579,
+      "nome": "GRACE KELY LANCHONETE E SORVETERIA LTDA",
+      "representante": "Sem vendas no mês",
+      "feno": null,
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 5084,
+      "nome": "JACQUES RODRIGUES JUNIOR",
+      "representante": "Sem vendas no mês",
+      "feno": null,
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 5735,
+      "nome": "HARAS VJR",
+      "representante": "BRUNA",
+      "feno": null,
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 5417,
+      "nome": "JEFFERSON JUNIOR DE OLIVEIRA",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 790.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 790.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 6389,
+      "nome": "JULIO AGUIAR",
+      "representante": "Sem vendas no mês",
+      "feno": null,
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 3998,
+      "nome": "LIBIO DE ASSIS CUNHA",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 1370.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 1370.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 1665,
+      "nome": "LUCIANO BARCIA RIBEIRO",
+      "representante": "Sem vendas no mês",
+      "feno": null,
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 4524,
+      "nome": "JOSE WILSON RIBEIRO E OUTROS",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 6400.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 6400.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 4534,
+      "nome": "ALCEU JOSE TORRES MARQUES",
+      "representante": "Sem vendas no mês",
+      "feno": null,
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 6647,
+      "nome": "EDUARDO PINHEIRO CAMPOS FILHO",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 5940.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 5940.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 3058,
+      "nome": "BRENO FRANCO",
+      "representante": "Sem vendas no mês",
+      "feno": null,
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 4642,
+      "nome": "BRENO SANTANA BARBOSA",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 820.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 820.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 5509,
+      "nome": "BRUNO ALVES FARNESE",
+      "representante": "Sem vendas no mês",
+      "feno": {
+        "cota_kg": 990.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 990.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      },
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 6566,
+      "nome": "CARLOS ALBERTO MENDES MANCILHA",
+      "representante": "Sem vendas no mês",
+      "feno": null,
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 1579,
+      "nome": "CELSO DE SOUSA LIMA FILHO",
+      "representante": "Sem vendas no mês",
+      "feno": null,
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 6898,
+      "nome": "CHARLES CASTRO DE OLIVEIRA",
+      "representante": "Sem vendas no mês",
+      "feno": null,
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 6795,
+      "nome": "DIRVANDO DE OLIVEIRA GOMES",
+      "representante": "Sem vendas no mês",
+      "feno": null,
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      }
+    },
+    {
+      "codigo": 6813,
+      "nome": "ANTONIO JOSE MESQUITA",
+      "representante": "Sem vendas no mês",
+      "feno": null,
+      "presecado": {
+        "cota_kg": 50000.0,
+        "consumido_kg": 0.0,
+        "saldo_kg": 50000.0,
+        "percentual": 0.0,
+        "cota_padrao": false,
+        "transacoes": []
+      }
+    }
+  ]
+}

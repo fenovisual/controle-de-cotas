@@ -1,0 +1,99 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Controle de Cota — Feno Visual</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600;9..144,700&family=Inter:wght@400;500;600;700&family=IBM+Plex+Mono:wght@500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+<header class="topbar">
+  <div class="topbar__brand">
+    <img class="topbar__logo" src="assets/logo-feno-visual.png" alt="Feno Visual" />
+    <div>
+      <p class="topbar__eyebrow">Feno Visual</p>
+      <h1 class="topbar__title">Controle de Cota</h1>
+    </div>
+  </div>
+  <div class="topbar__month">
+    <label for="month-select">Período</label>
+    <select id="month-select"></select>
+  </div>
+</header>
+
+<main>
+  <section class="reps" aria-label="Filtrar por representante">
+    <p class="section-label">Representante</p>
+    <div class="reps__list" id="rep-list"></div>
+  </section>
+
+  <section class="controls">
+    <div class="search-wrap">
+      <svg class="search-icon" viewBox="0 0 20 20" fill="none" aria-hidden="true">
+        <circle cx="9" cy="9" r="6.5" stroke="currentColor" stroke-width="1.6"/>
+        <path d="M18 18L14 14" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/>
+      </svg>
+      <input
+        type="search"
+        id="search"
+        class="search"
+        placeholder="Buscar cliente por nome ou código..."
+        autocomplete="off"
+      />
+      <button type="button" class="search-clear" id="search-clear" aria-label="Limpar busca" hidden>
+        <svg viewBox="0 0 14 14" fill="none"><path d="M2 2L12 12M12 2L2 12" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/></svg>
+      </button>
+    </div>
+    <div class="sort">
+      <label for="sort-select">Ordenar por</label>
+      <select id="sort-select">
+        <option value="percentual-desc">Maior % consumido — Feno</option>
+        <option value="percentual-asc">Menor % consumido — Feno</option>
+        <option value="saldo-asc">Menor saldo — Feno</option>
+        <option value="percentual-desc-presecado">Maior % consumido — Pré-secado</option>
+        <option value="percentual-asc-presecado">Menor % consumido — Pré-secado</option>
+        <option value="saldo-asc-presecado">Menor saldo — Pré-secado</option>
+        <option value="nome-asc">Nome (A–Z)</option>
+      </select>
+    </div>
+    <div class="legend" aria-hidden="true">
+      <span class="legend__item"><span class="cat-dot cat-dot--feno"></span>Feno</span>
+      <span class="legend__item"><span class="cat-dot cat-dot--presecado"></span>Pré-secado</span>
+    </div>
+  </section>
+
+  <section class="table-section" aria-label="Lista de clientes">
+    <table class="client-table" id="client-table">
+      <thead>
+        <tr>
+          <th scope="col" class="col-name">Cliente</th>
+          <th scope="col" class="col-rep">Representante</th>
+          <th scope="col" class="col-tipo">Tipo</th>
+          <th scope="col" class="col-num">Cota</th>
+          <th scope="col" class="col-num">Comprado</th>
+          <th scope="col" class="col-num">Saldo</th>
+          <th scope="col" class="col-progress">Consumo</th>
+          <th scope="col" class="col-status">Disponível na cota</th>
+          <th scope="col" class="col-expand" aria-label="Ver extrato"></th>
+        </tr>
+      </thead>
+      <tbody id="client-tbody"></tbody>
+    </table>
+  </section>
+
+  <p class="empty-state" id="empty-state" hidden>
+    Nenhum cliente encontrado com esse filtro.
+  </p>
+</main>
+
+<footer class="footer">
+  <p>Atualizado em <span id="generated-at">—</span></p>
+</footer>
+
+<script src="app.js"></script>
+</body>
+</html>
